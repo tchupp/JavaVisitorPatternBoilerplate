@@ -4,6 +4,6 @@ public class Dog implements IAnimal {
 
     @Override
     public String noise() {
-        return null;
+        return "Bark";
     }
 }
